@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Appricot.Abp.FileManagementModule": {
+      "path": "Appricot.Abp.FileManagementModule.abpmdl"
+    }
+  }
+}

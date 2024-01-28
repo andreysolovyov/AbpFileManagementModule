@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Appricot.Abp.FileManagementModule.Domain.Shared": {
+      "path": "src/Appricot.Abp.FileManagementModule.Domain.Shared/Appricot.Abp.FileManagementModule.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Domain": {
+      "path": "src/Appricot.Abp.FileManagementModule.Domain/Appricot.Abp.FileManagementModule.Domain.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Application.Contracts": {
+      "path": "src/Appricot.Abp.FileManagementModule.Application.Contracts/Appricot.Abp.FileManagementModule.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Application": {
+      "path": "src/Appricot.Abp.FileManagementModule.Application/Appricot.Abp.FileManagementModule.Application.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.EntityFrameworkCore": {
+      "path": "src/Appricot.Abp.FileManagementModule.EntityFrameworkCore/Appricot.Abp.FileManagementModule.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.MongoDB": {
+      "path": "src/Appricot.Abp.FileManagementModule.MongoDB/Appricot.Abp.FileManagementModule.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.HttpApi": {
+      "path": "src/Appricot.Abp.FileManagementModule.HttpApi/Appricot.Abp.FileManagementModule.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.HttpApi.Client": {
+      "path": "src/Appricot.Abp.FileManagementModule.HttpApi.Client/Appricot.Abp.FileManagementModule.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.TestBase": {
+      "path": "test/Appricot.Abp.FileManagementModule.TestBase/Appricot.Abp.FileManagementModule.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.EntityFrameworkCore.Tests": {
+      "path": "test/Appricot.Abp.FileManagementModule.EntityFrameworkCore.Tests/Appricot.Abp.FileManagementModule.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.MongoDB.Tests": {
+      "path": "test/Appricot.Abp.FileManagementModule.MongoDB.Tests/Appricot.Abp.FileManagementModule.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.Domain.Tests": {
+      "path": "test/Appricot.Abp.FileManagementModule.Domain.Tests/Appricot.Abp.FileManagementModule.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.Application.Tests": {
+      "path": "test/Appricot.Abp.FileManagementModule.Application.Tests/Appricot.Abp.FileManagementModule.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.HttpApi.Host": {
+      "path": "host/Appricot.Abp.FileManagementModule.HttpApi.Host/Appricot.Abp.FileManagementModule.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.Web": {
+      "path": "src/Appricot.Abp.FileManagementModule.Web/Appricot.Abp.FileManagementModule.Web.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Appricot.Abp.FileManagementModule.HttpApi.Client.ConsoleTestApp/Appricot.Abp.FileManagementModule.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Appricot.Abp.FileManagementModule.Web.Host": {
+      "path": "host/Appricot.Abp.FileManagementModule.Web.Host/Appricot.Abp.FileManagementModule.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.AuthServer": {
+      "path": "host/Appricot.Abp.FileManagementModule.AuthServer/Appricot.Abp.FileManagementModule.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.Host.Shared": {
+      "path": "host/Appricot.Abp.FileManagementModule.Host.Shared/Appricot.Abp.FileManagementModule.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.Web.Unified": {
+      "path": "host/Appricot.Abp.FileManagementModule.Web.Unified/Appricot.Abp.FileManagementModule.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.Blazor": {
+      "path": "src/Appricot.Abp.FileManagementModule.Blazor/Appricot.Abp.FileManagementModule.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Blazor.Host": {
+      "path": "host/Appricot.Abp.FileManagementModule.Blazor.Host/Appricot.Abp.FileManagementModule.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Appricot.Abp.FileManagementModule.Blazor.Server": {
+      "path": "src/Appricot.Abp.FileManagementModule.Blazor.Server/Appricot.Abp.FileManagementModule.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Blazor.WebAssembly": {
+      "path": "src/Appricot.Abp.FileManagementModule.Blazor.WebAssembly/Appricot.Abp.FileManagementModule.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Appricot.Abp.FileManagementModule.Blazor.Server.Host": {
+      "path": "host/Appricot.Abp.FileManagementModule.Blazor.Server.Host/Appricot.Abp.FileManagementModule.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

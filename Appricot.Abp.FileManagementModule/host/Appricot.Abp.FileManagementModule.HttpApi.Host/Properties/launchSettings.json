@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Appricot.Abp.FileManagementModule.DemoApp": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:44356",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
